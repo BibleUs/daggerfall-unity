@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 615723091
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: outfit manager.dfmod
+      Dependencies: {}

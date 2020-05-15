@@ -1,0 +1,19 @@
+- Text database for mod StandaloneWindows.
+- how to use: translate and place this file named mod_filename.txt inside StreamingAssets/Text. Note that an english table is NOT mandatory.
+
+schema: *key, $text
+
+- Mod details
+- Mod.Description, "description"
+
+- Settings
+Settings.Test.Name, "Test"
+Settings.Test.Key.Name, "Key"
+Settings.Test.Key.Description, "Input Key"
+
+- Presets
+Presets..Title, ""
+Presets..Description, ""
+
+- Additional strings which can be accessed from Mod.Localize().
+- Default values can be provided with a table named textdatabase.txt inside the mod bundle.
