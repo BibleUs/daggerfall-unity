@@ -1,0 +1,20 @@
+{
+    "Version": "1.0",
+    "Sections": [
+        {
+            "Name": "Test",
+            "Description": null,
+            "IsAdvanced": false,
+            "Keys": [
+                {
+                    "Value": "",
+                    "Name": "Key",
+                    "Description": "Input Key",
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.TextKey"
+                }
+            ],
+            "$version": "v1"
+        }
+    ]
+}
