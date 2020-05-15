@@ -74,6 +74,7 @@ namespace DaggerfallWorkshop.Game
         Hand lastAttackHand = Hand.None;
         float cooldownTime = 0.0f;                  // Wait for weapon cooldown
         int swingWeaponFatigueLoss = 11;            // According to DF Chronicles and verified in classic
+        float itemRange = 0;
 
         bool usingRightHand = true;
         bool holdingShield = false;
